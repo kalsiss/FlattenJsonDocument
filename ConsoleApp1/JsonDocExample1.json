@@ -1,0 +1,11 @@
+{
+  "employee": {
+    "name": "sonoo",
+    "salary": 56000,
+    "married": true,
+    "Address": {
+      "Street": "Street1",
+      "Postcode":  "2000"
+    }
+  }
+}  
