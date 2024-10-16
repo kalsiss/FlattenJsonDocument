@@ -1,6 +1,6 @@
 {
   "employee": {
-    "name": "sonoo",
+    "name": "John",
     "salary": 56000,
     "married": true,
     "Address": {
